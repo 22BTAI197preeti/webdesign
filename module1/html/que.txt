@@ -1,0 +1,13 @@
+<html>
+<head>
+</head>
+<body>
+<form>
+<label>first name:</label>
+<input type ="text" id ="fname"name="fname">
+<br>
+<label>last name:</label>
+<input type+"text"id ="lname" name+"lname">
+</form>
+</html>
+</body>
